@@ -1,8 +1,13 @@
 # Shakespeare Sonnet Generator
 
+### Purpose
 Our goal in this project is to build a Shakespeare Sonnet Generator using a recurrent LSTM neural network. More specifically, we will use deep learning libraries, TensorFlow and Keras, to build a Sequential model that will predict the next character from a sequence of characters.
 
-A large portion of this project focuses on cleaning the text data and preparing it for our neural network. We then build and train our model.
+<br/>
+
+A large portion of this project focuses on cleaning the text data and preparing it for our neural network. We then used the cleaned text to build and train our deep learning model.
+
+<br/>
 
 There is much room for improvement in our model. Future goals include:
 - Creating a web app to implement model and allow for user interaction
@@ -10,8 +15,11 @@ There is much room for improvement in our model. Future goals include:
 - Refining the training and text generation to be able to ask for different genres/styles of Shakespearean text
 - Training a classification model that takes in text and returns which Shakespearean work it is most likely from
 
+<br/>
 
 ### Download Shakespeare's Sonnets from the [Project Gutenberg](https://www.gutenberg.org/cache/epub/1041/pg1041.txt) website.
+
+<br/>
 
 ### Necessary Libraries
 - random
