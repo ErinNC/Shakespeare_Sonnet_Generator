@@ -5,9 +5,10 @@ Our goal in this project is to build a Shakespeare Sonnet Generator using a recu
 A large portion of this project focuses on cleaning the text data and preparing it for our neural network. We then build and train our model.
 
 There is much room for improvement in our model. Future goals include:
+- Creating a web app to implement model and allow for user interaction
 - Building a model in which the sequences are composed of words rather than characters
-- Refine the training and text generation to be able to ask for different genres/styles of Shakespearean text
-- Train a classification model that takes in text and returns which Shakespearean work it is most likely from
+- Refining the training and text generation to be able to ask for different genres/styles of Shakespearean text
+- Training a classification model that takes in text and returns which Shakespearean work it is most likely from
 
 
 ### Download Shakespeare's Sonnets from the [Project Gutenberg](https://www.gutenberg.org/cache/epub/1041/pg1041.txt) website.
