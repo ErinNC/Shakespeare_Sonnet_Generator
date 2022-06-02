@@ -1,0 +1,602 @@
+Epoch 1/100
+91/91 [==============================] - ETA: 0s - loss: 2.9220
+----- Generating text after Epoch: 0
+----- Generating with seed: "s on form and favour"
+s on form and favourpm  rkrswpst  hh tui
+91/91 [==============================] - 11s 101ms/step - loss: 2.9220
+Epoch 2/100
+91/91 [==============================] - ETA: 0s - loss: 2.8254
+----- Generating text after Epoch: 1
+----- Generating with seed: "ove doth well denote"
+ove doth well denotet hihgy hrtwtmceh vm
+91/91 [==============================] - 8s 86ms/step - loss: 2.8254
+Epoch 3/100
+91/91 [==============================] - ETA: 0s - loss: 2.8021
+----- Generating text after Epoch: 2
+----- Generating with seed: "n my madness might s"
+n my madness might slrnsner goarneh eeu 
+91/91 [==============================] - 8s 85ms/step - loss: 2.8021
+Epoch 4/100
+91/91 [==============================] - ETA: 0s - loss: 2.5901
+----- Generating text after Epoch: 3
+----- Generating with seed: "r praise the deep ve"
+r praise the deep vetenie tu t li islou 
+91/91 [==============================] - 8s 87ms/step - loss: 2.5901
+Epoch 5/100
+91/91 [==============================] - ETA: 0s - loss: 2.3641
+----- Generating text after Epoch: 4
+----- Generating with seed: " much more doth beau"
+ much more doth beauuly boxe thbe aue br
+91/91 [==============================] - 8s 87ms/step - loss: 2.3641
+Epoch 6/100
+91/91 [==============================] - ETA: 0s - loss: 2.2713
+----- Generating text after Epoch: 5
+----- Generating with seed: " lies that she might"
+ lies that she mighth skiwis fe myewtelr
+91/91 [==============================] - 8s 87ms/step - loss: 2.2713
+Epoch 7/100
+91/91 [==============================] - ETA: 0s - loss: 2.2102
+----- Generating text after Epoch: 6
+----- Generating with seed: "tle doom and taught "
+tle doom and taught sire ive weis ban bi
+91/91 [==============================] - 8s 86ms/step - loss: 2.2102
+Epoch 8/100
+91/91 [==============================] - ETA: 0s - loss: 2.1699
+----- Generating text after Epoch: 7
+----- Generating with seed: "and their gross pain"
+and their gross pain tore apt baot sreeu
+91/91 [==============================] - 8s 86ms/step - loss: 2.1699
+Epoch 9/100
+91/91 [==============================] - ETA: 0s - loss: 2.1333
+----- Generating text after Epoch: 8
+----- Generating with seed: "ng stars twire not t"
+ng stars twire not that in me taler oas 
+91/91 [==============================] - 8s 86ms/step - loss: 2.1333
+Epoch 10/100
+91/91 [==============================] - ETA: 0s - loss: 2.1073
+----- Generating text after Epoch: 9
+----- Generating with seed: "r his memory but tho"
+r his memory but tho mese fy palt fisuth
+91/91 [==============================] - 8s 87ms/step - loss: 2.1073
+Epoch 11/100
+91/91 [==============================] - ETA: 0s - loss: 2.0642
+----- Generating text after Epoch: 10
+----- Generating with seed: "y it is so grounded "
+y it is so grounded buiktold thet if mul
+91/91 [==============================] - 8s 88ms/step - loss: 2.0642
+Epoch 12/100
+91/91 [==============================] - ETA: 0s - loss: 2.0291
+----- Generating text after Epoch: 11
+----- Generating with seed: "d makes all swift di"
+d makes all swift dien dniguthoug ho ay 
+91/91 [==============================] - 8s 90ms/step - loss: 2.0291
+Epoch 13/100
+91/91 [==============================] - ETA: 0s - loss: 2.0057
+----- Generating text after Epoch: 12
+----- Generating with seed: "be wise as thou art "
+be wise as thou art thy stome pomss thei
+91/91 [==============================] - 8s 88ms/step - loss: 2.0057
+Epoch 14/100
+91/91 [==============================] - ETA: 0s - loss: 1.9773
+----- Generating text after Epoch: 13
+----- Generating with seed: "mmers story tell or "
+mmers story tell or i chineo hoe bantere
+91/91 [==============================] - 8s 87ms/step - loss: 1.9773
+Epoch 15/100
+91/91 [==============================] - ETA: 0s - loss: 1.9625
+----- Generating text after Epoch: 14
+----- Generating with seed: "o it wrong and haply"
+o it wrong and haplyes i her the deelcpr
+91/91 [==============================] - 8s 86ms/step - loss: 1.9625
+Epoch 16/100
+91/91 [==============================] - ETA: 0s - loss: 1.9391
+----- Generating text after Epoch: 15
+----- Generating with seed: "e of year thou mayst"
+e of year thou mayst haded thre nivest l
+91/91 [==============================] - 8s 89ms/step - loss: 1.9391
+Epoch 17/100
+91/91 [==============================] - ETA: 0s - loss: 1.9170
+----- Generating text after Epoch: 16
+----- Generating with seed: "tage doublevantage m"
+tage doublevantage mest bet bo thereid a
+91/91 [==============================] - 8s 88ms/step - loss: 1.9170
+Epoch 18/100
+91/91 [==============================] - ETA: 0s - loss: 1.8942
+----- Generating text after Epoch: 17
+----- Generating with seed: "l they foul that thy"
+l they foul that thys drneare whity woth
+91/91 [==============================] - 8s 88ms/step - loss: 1.8942
+Epoch 19/100
+91/91 [==============================] - ETA: 0s - loss: 1.8765
+----- Generating text after Epoch: 18
+----- Generating with seed: "mine own self bring "
+mine own self bring the that me willl co
+91/91 [==============================] - 8s 89ms/step - loss: 1.8765
+Epoch 20/100
+91/91 [==============================] - ETA: 0s - loss: 1.8572
+----- Generating text after Epoch: 19
+----- Generating with seed: "nd hath put on natur"
+nd hath put on naturne thin of yournor v
+91/91 [==============================] - 8s 88ms/step - loss: 1.8572
+Epoch 21/100
+91/91 [==============================] - ETA: 0s - loss: 1.8418
+----- Generating text after Epoch: 20
+----- Generating with seed: "i joy but then no lo"
+i joy but then no loth piald iuld hath o
+91/91 [==============================] - 8s 87ms/step - loss: 1.8418
+Epoch 22/100
+91/91 [==============================] - ETA: 0s - loss: 1.8089
+----- Generating text after Epoch: 21
+----- Generating with seed: "n be recurd by those"
+n be recurd by those that it mostsrest a
+91/91 [==============================] - 8s 87ms/step - loss: 1.8089
+Epoch 23/100
+91/91 [==============================] - ETA: 0s - loss: 1.7988
+----- Generating text after Epoch: 22
+----- Generating with seed: "t now the worlds fre"
+t now the worlds freeppy ot eart are gro
+91/91 [==============================] - 8s 87ms/step - loss: 1.7988
+Epoch 24/100
+91/91 [==============================] - ETA: 0s - loss: 1.7785
+----- Generating text after Epoch: 23
+----- Generating with seed: "thy heart when mine "
+thy heart when mine stue live on oren in
+91/91 [==============================] - 8s 87ms/step - loss: 1.7785
+Epoch 25/100
+91/91 [==============================] - ETA: 0s - loss: 1.7680
+----- Generating text after Epoch: 24
+----- Generating with seed: " then i am not lame "
+ then i am not lame and brate whach mear
+91/91 [==============================] - 8s 88ms/step - loss: 1.7680
+Epoch 26/100
+91/91 [==============================] - ETA: 0s - loss: 1.7493
+----- Generating text after Epoch: 25
+----- Generating with seed: "e o how thy worth wi"
+e o how thy worth wiver prithe plive on 
+91/91 [==============================] - 8s 88ms/step - loss: 1.7493
+Epoch 27/100
+91/91 [==============================] - ETA: 0s - loss: 1.7296
+----- Generating text after Epoch: 26
+----- Generating with seed: "n assurd of thy fair"
+n assurd of thy fairel time but if thy l
+91/91 [==============================] - 8s 88ms/step - loss: 1.7296
+Epoch 28/100
+91/91 [==============================] - ETA: 0s - loss: 1.7224
+----- Generating text after Epoch: 27
+----- Generating with seed: "uty like a dialhand "
+uty like a dialhand doth my feir loves l
+91/91 [==============================] - 8s 87ms/step - loss: 1.7224
+Epoch 29/100
+91/91 [==============================] - ETA: 0s - loss: 1.7067
+----- Generating text after Epoch: 28
+----- Generating with seed: "inks down to death o"
+inks down to death ondole can slo that w
+91/91 [==============================] - 8s 86ms/step - loss: 1.7067
+Epoch 30/100
+91/91 [==============================] - ETA: 0s - loss: 1.6843
+----- Generating text after Epoch: 29
+----- Generating with seed: " to see till i see t"
+ to see till i see that ountay the weect
+91/91 [==============================] - 8s 90ms/step - loss: 1.6843
+Epoch 31/100
+91/91 [==============================] - ETA: 0s - loss: 1.6661
+----- Generating text after Epoch: 30
+----- Generating with seed: "ess given thee to gi"
+ess given thee to give my grefverive the
+91/91 [==============================] - 8s 86ms/step - loss: 1.6661
+Epoch 32/100
+91/91 [==============================] - ETA: 0s - loss: 1.6503
+----- Generating text after Epoch: 31
+----- Generating with seed: "ome in their garment"
+ome in their garment hor by in the my th
+91/91 [==============================] - 8s 88ms/step - loss: 1.6503
+Epoch 33/100
+91/91 [==============================] - ETA: 0s - loss: 1.6373
+----- Generating text after Epoch: 32
+----- Generating with seed: "elf so wary as i not"
+elf so wary as i nothise loow thun weren
+91/91 [==============================] - 8s 87ms/step - loss: 1.6373
+Epoch 34/100
+91/91 [==============================] - ETA: 0s - loss: 1.6216
+----- Generating text after Epoch: 33
+----- Generating with seed: "owers much liker tha"
+owers much liker that darjetters sue you
+91/91 [==============================] - 8s 88ms/step - loss: 1.6216
+Epoch 35/100
+91/91 [==============================] - ETA: 0s - loss: 1.6037
+----- Generating text after Epoch: 34
+----- Generating with seed: "seemd to me but hope"
+seemd to me but hopers on evers onse swe
+91/91 [==============================] - 8s 86ms/step - loss: 1.6037
+Epoch 36/100
+91/91 [==============================] - ETA: 0s - loss: 1.5880
+----- Generating text after Epoch: 35
+----- Generating with seed: "ling but by others s"
+ling but by others so me fram thou repes
+91/91 [==============================] - 8s 86ms/step - loss: 1.5880
+Epoch 37/100
+91/91 [==============================] - ETA: 0s - loss: 1.5753
+----- Generating text after Epoch: 36
+----- Generating with seed: "beauteous blessings "
+beauteous blessings tifls to grive for t
+91/91 [==============================] - 8s 89ms/step - loss: 1.5753
+Epoch 38/100
+91/91 [==============================] - ETA: 0s - loss: 1.5611
+----- Generating text after Epoch: 37
+----- Generating with seed: "state itself confoun"
+state itself confoundwerr to thise plofe
+91/91 [==============================] - 8s 87ms/step - loss: 1.5611
+Epoch 39/100
+91/91 [==============================] - ETA: 0s - loss: 1.5485
+----- Generating text after Epoch: 38
+----- Generating with seed: "et i know it not so "
+et i know it not so most in prids that i
+91/91 [==============================] - 8s 88ms/step - loss: 1.5485
+Epoch 40/100
+91/91 [==============================] - ETA: 0s - loss: 1.5267
+----- Generating text after Epoch: 39
+----- Generating with seed: "ing which steals men"
+ing which steals men here to her of fore
+91/91 [==============================] - 8s 88ms/step - loss: 1.5267
+Epoch 41/100
+91/91 [==============================] - ETA: 0s - loss: 1.5051
+----- Generating text after Epoch: 40
+----- Generating with seed: " were though not to "
+ were though not to thy will beauty that
+91/91 [==============================] - 8s 88ms/step - loss: 1.5051
+Epoch 42/100
+91/91 [==============================] - ETA: 0s - loss: 1.4838
+----- Generating text after Epoch: 41
+----- Generating with seed: "hat muse stirrd by a"
+hat muse stirrd by and those mind is of 
+91/91 [==============================] - 8s 87ms/step - loss: 1.4838
+Epoch 43/100
+91/91 [==============================] - ETA: 0s - loss: 1.4679
+----- Generating text after Epoch: 42
+----- Generating with seed: "pen him in thy cours"
+pen him in thy cours love my trient gemp
+91/91 [==============================] - 8s 87ms/step - loss: 1.4679
+Epoch 44/100
+91/91 [==============================] - ETA: 0s - loss: 1.4529
+----- Generating text after Epoch: 43
+----- Generating with seed: "he sun itself sees n"
+he sun itself sees no seaules a leaphes 
+91/91 [==============================] - 8s 87ms/step - loss: 1.4529
+Epoch 45/100
+91/91 [==============================] - ETA: 0s - loss: 1.4319
+----- Generating text after Epoch: 44
+----- Generating with seed: "keeps mine eye awake"
+keeps mine eye awakes and our am fatrere
+91/91 [==============================] - 8s 87ms/step - loss: 1.4319
+Epoch 46/100
+91/91 [==============================] - ETA: 0s - loss: 1.4188
+----- Generating text after Epoch: 45
+----- Generating with seed: " too much rage whose"
+ too much rage whose sheeliful tincmeps 
+91/91 [==============================] - 8s 87ms/step - loss: 1.4188
+Epoch 47/100
+91/91 [==============================] - ETA: 0s - loss: 1.3983
+----- Generating text after Epoch: 46
+----- Generating with seed: "tate and trouble dea"
+tate and trouble deads contherd in hadd 
+91/91 [==============================] - 9s 99ms/step - loss: 1.3983
+Epoch 48/100
+91/91 [==============================] - ETA: 0s - loss: 1.3798
+----- Generating text after Epoch: 47
+----- Generating with seed: "s thine heir lo in t"
+s thine heir lo in tiintint thy calp wru
+91/91 [==============================] - 8s 89ms/step - loss: 1.3798
+Epoch 49/100
+91/91 [==============================] - ETA: 0s - loss: 1.3610
+----- Generating text after Epoch: 48
+----- Generating with seed: "f to try an older fr"
+f to try an older fromy a brice mas as o
+91/91 [==============================] - 8s 91ms/step - loss: 1.3610
+Epoch 50/100
+91/91 [==============================] - ETA: 0s - loss: 1.3315
+----- Generating text after Epoch: 49
+----- Generating with seed: "boot and will in ove"
+boot and will in ove sulf looks thougs n
+91/91 [==============================] - 8s 89ms/step - loss: 1.3315
+Epoch 51/100
+91/91 [==============================] - ETA: 0s - loss: 1.3249
+----- Generating text after Epoch: 50
+----- Generating with seed: "t in thy face sweet "
+t in thy face sweet shall the serory spe
+91/91 [==============================] - 8s 89ms/step - loss: 1.3249
+Epoch 52/100
+91/91 [==============================] - ETA: 0s - loss: 1.2858
+----- Generating text after Epoch: 51
+----- Generating with seed: "s delight to see his"
+s delight to see his yours no doon the m
+91/91 [==============================] - 8s 88ms/step - loss: 1.2858
+Epoch 53/100
+91/91 [==============================] - ETA: 0s - loss: 1.2754
+----- Generating text after Epoch: 52
+----- Generating with seed: " when we purge even "
+ when we purge even that which gurubwinc
+91/91 [==============================] - 8s 89ms/step - loss: 1.2754
+Epoch 54/100
+91/91 [==============================] - ETA: 0s - loss: 1.2503
+----- Generating text after Epoch: 53
+----- Generating with seed: "ease thee hold that "
+ease thee hold that glowe of my tongead 
+91/91 [==============================] - 8s 88ms/step - loss: 1.2503
+Epoch 55/100
+91/91 [==============================] - ETA: 0s - loss: 1.2210
+----- Generating text after Epoch: 54
+----- Generating with seed: "at i will bitter thi"
+at i will bitter thine thy putes wire ar
+91/91 [==============================] - 8s 88ms/step - loss: 1.2210
+Epoch 56/100
+91/91 [==============================] - ETA: 0s - loss: 1.2063
+----- Generating text after Epoch: 55
+----- Generating with seed: "tty wrongs that libe"
+tty wrongs that libed no priens awdindy 
+91/91 [==============================] - 8s 88ms/step - loss: 1.2063
+Epoch 57/100
+91/91 [==============================] - ETA: 0s - loss: 1.1750
+----- Generating text after Epoch: 56
+----- Generating with seed: "sts shook three summ"
+sts shook three summ strovl geed be of h
+91/91 [==============================] - 8s 89ms/step - loss: 1.1750
+Epoch 58/100
+91/91 [==============================] - ETA: 0s - loss: 1.1552
+----- Generating text after Epoch: 57
+----- Generating with seed: "ictor being chargd y"
+ictor being chargd ye glass pot fisbrivi
+91/91 [==============================] - 8s 89ms/step - loss: 1.1552
+Epoch 59/100
+91/91 [==============================] - ETA: 0s - loss: 1.1335
+----- Generating text after Epoch: 58
+----- Generating with seed: " as thy sweet self g"
+ as thy sweet self goorn not redoand giv
+91/91 [==============================] - 8s 90ms/step - loss: 1.1335
+Epoch 60/100
+91/91 [==============================] - ETA: 0s - loss: 1.1091
+----- Generating text after Epoch: 59
+----- Generating with seed: "eals up all in rest "
+eals up all in rest not afpiess of you m
+91/91 [==============================] - 8s 89ms/step - loss: 1.1091
+Epoch 61/100
+91/91 [==============================] - ETA: 0s - loss: 1.0820
+----- Generating text after Epoch: 60
+----- Generating with seed: "n be the same o sure"
+n be the same o sure and scain thour uso
+91/91 [==============================] - 8s 90ms/step - loss: 1.0820
+Epoch 62/100
+91/91 [==============================] - ETA: 0s - loss: 1.0607
+----- Generating text after Epoch: 61
+----- Generating with seed: "but since your worth"
+but since your worth sowld be thack farl
+91/91 [==============================] - 8s 88ms/step - loss: 1.0607
+Epoch 63/100
+91/91 [==============================] - ETA: 0s - loss: 1.0419
+----- Generating text after Epoch: 62
+----- Generating with seed: "ep in twixt vows and"
+ep in twixt vows and and thes me of is w
+91/91 [==============================] - 8s 88ms/step - loss: 1.0419
+Epoch 64/100
+91/91 [==============================] - ETA: 0s - loss: 1.0107
+----- Generating text after Epoch: 63
+----- Generating with seed: "on hunted and no soo"
+on hunted and no sool a be bity third in
+91/91 [==============================] - 8s 90ms/step - loss: 1.0107
+Epoch 65/100
+91/91 [==============================] - ETA: 0s - loss: 0.9954
+----- Generating text after Epoch: 64
+----- Generating with seed: "true love call all m"
+true love call all my poty fre my reaqui
+91/91 [==============================] - 8s 87ms/step - loss: 0.9954
+Epoch 66/100
+91/91 [==============================] - ETA: 0s - loss: 0.9904
+----- Generating text after Epoch: 65
+----- Generating with seed: "he watchman ever for"
+he watchman ever fore noth deless sone t
+91/91 [==============================] - 9s 95ms/step - loss: 0.9904
+Epoch 67/100
+91/91 [==============================] - ETA: 0s - loss: 0.9612
+----- Generating text after Epoch: 66
+----- Generating with seed: "honour me unless tho"
+honour me unless though what thin sill i
+91/91 [==============================] - 9s 97ms/step - loss: 0.9612
+Epoch 68/100
+91/91 [==============================] - ETA: 0s - loss: 0.9265
+----- Generating text after Epoch: 67
+----- Generating with seed: "enure of thy jealous"
+enure of thy jealouss thee thrse d the s
+91/91 [==============================] - 8s 90ms/step - loss: 0.9265
+Epoch 69/100
+91/91 [==============================] - ETA: 0s - loss: 0.9029
+----- Generating text after Epoch: 68
+----- Generating with seed: "w but wherefore do n"
+w but wherefore do not mut fo thin senft
+91/91 [==============================] - 8s 87ms/step - loss: 0.9029
+Epoch 70/100
+91/91 [==============================] - ETA: 0s - loss: 0.8720
+----- Generating text after Epoch: 69
+----- Generating with seed: "vers eyes sweet love"
+vers eyes sweet love tidg i of noted to 
+91/91 [==============================] - 8s 89ms/step - loss: 0.8720
+Epoch 71/100
+91/91 [==============================] - ETA: 0s - loss: 0.8751
+----- Generating text after Epoch: 70
+----- Generating with seed: "bear thine eyes stra"
+bear thine eyes straight pe foo hold wit
+91/91 [==============================] - 8s 91ms/step - loss: 0.8751
+Epoch 72/100
+91/91 [==============================] - ETA: 0s - loss: 0.8345
+----- Generating text after Epoch: 71
+----- Generating with seed: "tify the wrong that "
+tify the wrong that le withes and dil of
+91/91 [==============================] - 8s 90ms/step - loss: 0.8345
+Epoch 73/100
+91/91 [==============================] - ETA: 0s - loss: 0.7981
+----- Generating text after Epoch: 72
+----- Generating with seed: " art made tonguetied"
+ art made tonguetied shach freet of thy 
+91/91 [==============================] - 8s 88ms/step - loss: 0.7981
+Epoch 74/100
+91/91 [==============================] - ETA: 0s - loss: 0.7952
+----- Generating text after Epoch: 73
+----- Generating with seed: "hy wrong my love sha"
+hy wrong my love shawichand for forgure 
+91/91 [==============================] - 8s 89ms/step - loss: 0.7952
+Epoch 75/100
+91/91 [==============================] - ETA: 0s - loss: 0.7682
+----- Generating text after Epoch: 74
+----- Generating with seed: " from the day the ey"
+ from the day the eyenges dat and chichi
+91/91 [==============================] - 8s 88ms/step - loss: 0.7682
+Epoch 76/100
+91/91 [==============================] - ETA: 0s - loss: 0.7538
+----- Generating text after Epoch: 75
+----- Generating with seed: "ptance shine the sea"
+ptance shine the seams to this mind thou
+91/91 [==============================] - 8s 89ms/step - loss: 0.7538
+Epoch 77/100
+91/91 [==============================] - ETA: 0s - loss: 0.7272
+----- Generating text after Epoch: 76
+----- Generating with seed: " hast thy will and w"
+ hast thy will and will i be dobe bres s
+91/91 [==============================] - 8s 89ms/step - loss: 0.7272
+Epoch 78/100
+91/91 [==============================] - ETA: 0s - loss: 0.6963
+----- Generating text after Epoch: 77
+----- Generating with seed: "in thy noon unlookd "
+in thy noon unlookd poth hake then the w
+91/91 [==============================] - 8s 89ms/step - loss: 0.6963
+Epoch 79/100
+91/91 [==============================] - ETA: 0s - loss: 0.6968
+----- Generating text after Epoch: 78
+----- Generating with seed: "lown away i hate fro"
+lown away i hate from thes grind and lov
+91/91 [==============================] - 8s 89ms/step - loss: 0.6968
+Epoch 80/100
+91/91 [==============================] - ETA: 0s - loss: 0.7191
+----- Generating text after Epoch: 79
+----- Generating with seed: "gentle work did fram"
+gentle work did frame or thut som/usr/local/lib/python3.7/dist-packages/ipykernel_launcher.py:13: RuntimeWarning: divide by zero encountered in log
+  del sys.path[0]
+e hat c
+91/91 [==============================] - 8s 92ms/step - loss: 0.7191
+Epoch 81/100
+91/91 [==============================] - ETA: 0s - loss: 0.6527
+----- Generating text after Epoch: 80
+----- Generating with seed: "lf away for term of "
+lf away for term of seard no fanong gain
+91/91 [==============================] - 8s 87ms/step - loss: 0.6527
+Epoch 82/100
+91/91 [==============================] - ETA: 0s - loss: 0.6356
+----- Generating text after Epoch: 81
+----- Generating with seed: "inual haste this i d"
+inual haste this i dour nakingsinchint o
+91/91 [==============================] - 8s 87ms/step - loss: 0.6356
+Epoch 83/100
+91/91 [==============================] - ETA: 0s - loss: 0.6153
+----- Generating text after Epoch: 82
+----- Generating with seed: "uring for invention "
+uring for invention if thos ast andes ap
+91/91 [==============================] - 8s 88ms/step - loss: 0.6153
+Epoch 84/100
+91/91 [==============================] - ETA: 0s - loss: 0.6076
+----- Generating text after Epoch: 83
+----- Generating with seed: "is and live no more "
+is and live no more wherefings to hin ch
+91/91 [==============================] - 8s 89ms/step - loss: 0.6076
+Epoch 85/100
+91/91 [==============================] - ETA: 0s - loss: 0.5747
+----- Generating text after Epoch: 84
+----- Generating with seed: " not lame poor nor d"
+ not lame poor nor duseng the gentur wo 
+91/91 [==============================] - 8s 89ms/step - loss: 0.5747
+Epoch 86/100
+91/91 [==============================] - ETA: 0s - loss: 0.5751
+----- Generating text after Epoch: 85
+----- Generating with seed: "t thou gildst the ev"
+t thou gildst the every hads my apseacht
+91/91 [==============================] - 8s 90ms/step - loss: 0.5751
+Epoch 87/100
+91/91 [==============================] - ETA: 0s - loss: 0.5688
+----- Generating text after Epoch: 86
+----- Generating with seed: "eps thee to this pur"
+eps thee to this purits whine igl sid th
+91/91 [==============================] - 8s 88ms/step - loss: 0.5688
+Epoch 88/100
+91/91 [==============================] - ETA: 0s - loss: 0.5625
+----- Generating text after Epoch: 87
+----- Generating with seed: "oses have thorns and"
+oses have thorns and free troull of wlit
+91/91 [==============================] - 8s 90ms/step - loss: 0.5625
+Epoch 89/100
+91/91 [==============================] - ETA: 0s - loss: 0.5064
+----- Generating text after Epoch: 88
+----- Generating with seed: " me now yet him for "
+ me now yet him for me my lin fromlth th
+91/91 [==============================] - 8s 90ms/step - loss: 0.5064
+Epoch 90/100
+91/91 [==============================] - ETA: 0s - loss: 0.4821
+----- Generating text after Epoch: 89
+----- Generating with seed: "dear doting heart th"
+dear doting heart thou steet it imp boty
+91/91 [==============================] - 8s 91ms/step - loss: 0.4821
+Epoch 91/100
+91/91 [==============================] - ETA: 0s - loss: 0.4992
+----- Generating text after Epoch: 90
+----- Generating with seed: " others grow and not"
+ others grow and nothe do not to sieakes
+91/91 [==============================] - 8s 92ms/step - loss: 0.4992
+Epoch 92/100
+91/91 [==============================] - ETA: 0s - loss: 0.4747
+----- Generating text after Epoch: 91
+----- Generating with seed: "living brow before t"
+living brow before the spord with thine 
+91/91 [==============================] - 9s 103ms/step - loss: 0.4747
+Epoch 93/100
+91/91 [==============================] - ETA: 0s - loss: 0.4662
+----- Generating text after Epoch: 92
+----- Generating with seed: "ste blanks and thou "
+ste blanks and thou art thy sear not bet
+91/91 [==============================] - 8s 88ms/step - loss: 0.4662
+Epoch 94/100
+91/91 [==============================] - ETA: 0s - loss: 0.4616
+----- Generating text after Epoch: 93
+----- Generating with seed: "ng praise like as th"
+ng praise like as the walkeres wherery m
+91/91 [==============================] - 8s 90ms/step - loss: 0.4616
+Epoch 95/100
+91/91 [==============================] - ETA: 0s - loss: 0.4675
+----- Generating text after Epoch: 94
+----- Generating with seed: "praise which makes y"
+praise which makes you recoft bus sinch 
+91/91 [==============================] - 8s 90ms/step - loss: 0.4675
+Epoch 96/100
+91/91 [==============================] - ETA: 0s - loss: 0.4436
+----- Generating text after Epoch: 95
+----- Generating with seed: "sence seemd my flame"
+sence seemd my flamers vensums sun the t
+91/91 [==============================] - 8s 89ms/step - loss: 0.4436
+Epoch 97/100
+91/91 [==============================] - ETA: 0s - loss: 0.3932
+----- Generating text after Epoch: 96
+----- Generating with seed: "ass eternal slave to"
+ass eternal slave to afo thas hadiin len
+91/91 [==============================] - 8s 89ms/step - loss: 0.3932
+Epoch 98/100
+91/91 [==============================] - ETA: 0s - loss: 0.4267
+----- Generating text after Epoch: 97
+----- Generating with seed: "urs to crave being y"
+urs to crave being your to me brow muth 
+91/91 [==============================] - 8s 88ms/step - loss: 0.4267
+Epoch 99/100
+91/91 [==============================] - ETA: 0s - loss: 0.4061
+----- Generating text after Epoch: 98
+----- Generating with seed: "till heaven clears o"
+till heaven clears oncer thats in the be
+91/91 [==============================] - 8s 91ms/step - loss: 0.4061
+Epoch 100/100
+91/91 [==============================] - ETA: 0s - loss: 0.3945
+----- Generating text after Epoch: 99
+----- Generating with seed: "e not let that copy "
+e not let that copy wind ond andristhin 
+91/91 [==============================] - 8s 90ms/step - loss: 0.3945
